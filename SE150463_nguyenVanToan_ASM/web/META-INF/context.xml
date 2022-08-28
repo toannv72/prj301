@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SE150463_nguyenVanToan_ASM">
+  <Resource auth="Container" driver="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DBCon" password="12345" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;database=TTKPiano" username="sa"/>
+</Context>
